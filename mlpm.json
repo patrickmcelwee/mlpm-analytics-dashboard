@@ -1,0 +1,11 @@
+{
+  "name": "analytics-dashboard",
+  "version": "0.0.1",
+  "description": "MarkLogic server-side library that works together with ml-analytics-dashboard-ng to provide BI dashboard",
+  "repository": "https://github.com/patrickmcelwee/mlpm-analytics-dashboard.git",
+  "dependencies": {
+    "cts-extensions": "1.1.*",
+    "group-by": "1.1.*",
+    "ml-index-discovery": "2.0.*"
+  }
+}
